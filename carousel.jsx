@@ -40,7 +40,7 @@ function Carousel() {
             category: "lunch",
             price: 13.99,
             img: "https://vanilla-js-basic-project-8-menu.netlify.app/images/item-8.jpeg",
-            qushimcha: "on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut"
+            qushimcha: "on it asdssdasdastumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut"
         },
         {
             id: 5,
